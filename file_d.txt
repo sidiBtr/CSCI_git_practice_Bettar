@@ -1,3 +1,9 @@
-Sidi Bettar?
+<<<<<<< HEAD
+Sidi Bettar!
  
 Hassan Sesay?
+=======
+Sidi Bettar!
+ 
+Hassan Sesay?
+>>>>>>> 05e200888c5dd54792075ee9bbfc6f0f96be633
